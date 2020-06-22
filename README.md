@@ -1,0 +1,2 @@
+# ArcoLinuxB-Ukui Calamares configuration
+
